@@ -1,13 +1,9 @@
-Golang Tutorial for Beginners | Full Go Course
-techworld with nana
-https://www.youtube.com/watch?v=yyUHQIec83I
-
-to install Go, first get an ide, like VS code, then go to official golan page go.dev
+to install Go, first get an IDE, like VS code, then go to official golan page go.dev
 get installer, run it. Exit command line window, re-enter, should be able to type in "go" command and now see help options
 
 to create a project, just
-mkdir booking-app
-cd booking-app
+mkdir your-app-name
+cd your-app-name
 code .
 
 in golang, functions that start with capital letter are public, if they start with lower they are private to the package
