@@ -33,7 +33,7 @@ func main() {
     // Wait for both Goroutines to finish
     wg.Wait()
 
-	fmt.Println("- - End of program, which waited for the waitgroup to finish - - - -")
+	fmt.Println("- - End of program, this print statement waited for the waitgroup to finish - - - -")
 }
 
 func sendData(c chan int, wg *sync.WaitGroup) {
