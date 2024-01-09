@@ -1,3 +1,6 @@
+https://gobyexample.com/
+https://gophercises.com/
+
 to install Go, first get an IDE, like VS code, then go to official golan page go.dev
 get installer, run it. Exit command line window, re-enter, should be able to type in "go" command and now see help options
 
