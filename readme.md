@@ -1,6 +1,12 @@
+PRACTICE
 https://gobyexample.com/
 https://gophercises.com/
 
+DEBUGGING
+basic debug, can use visual studio code, press Run and Debug, follow prompt to download dlv package (21k stars, seems to be the 'official' unofficial debug tool)
+https://github.com/go-delve/delve
+
+INSTALLATION
 to install Go, first get an IDE, like VS code, then go to official golan page go.dev
 get installer, run it. Exit command line window, re-enter, should be able to type in "go" command and now see help options
 
