@@ -7,6 +7,7 @@ import (
 	"testing"
 )
 
+//test funcs MUST start with Test
 func TestPrintHelloWorld_Validate(t *testing.T) {
 	// More info: https://tools.ietf.org/html/rfc7644#section-3.5.2
 	t.Run("Valid", func(t *testing.T) {
